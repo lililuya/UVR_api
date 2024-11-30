@@ -1,0 +1,114 @@
+{
+    "demucs": {
+        "hdemucs_mmi": {
+            "audio": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 28.517844915390015
+            },
+            "wav": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 19.17659068107605
+            },
+            "mp3": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 20.161988019943237
+            },
+            "flac": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 23.07073998451233
+            }
+        }
+    },
+    "vr_network": {
+        "1_HP-UVR": {
+            "audio": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 11.637473106384277
+            },
+            "wav": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 12.053731918334961
+            },
+            "mp3": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 17.92900800704956
+            },
+            "flac": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 10.97541093826294
+            }
+        }
+    },
+    "mdx": {
+        "UVR-MDX-NET-Inst_1": {
+            "audio": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 6.675442218780518
+            },
+            "wav": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 4.095139265060425
+            },
+            "mp3": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 4.160974740982056
+            },
+            "flac": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 4.121398687362671
+            }
+        }
+    },
+    "mdxc": {
+        "MDX23C-8KFFT-InstVoc_HQ": {
+            "audio": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 71.7358889579773
+            },
+            "wav": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 74.15330004692078
+            },
+            "mp3": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 76.09534502029419
+            },
+            "flac": {
+                "download": true,
+                "load": true,
+                "run": true,
+                "time": 72.53368592262268
+            }
+        }
+    }
+}
